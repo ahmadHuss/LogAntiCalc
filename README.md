@@ -9,7 +9,7 @@ It's just a project in my year GUI calculator that can Calculate logarithm and A
 
 ##About
 In this project there is .jar file.And if you want to run that file you need to install Java RunTime Environement which
-is free.[Downloaded it Here](https://java.com/download)
+is free.[Downloaded it Here](https://java.com/download){:target="_blank"}
 
 ##How-to use this
 First you need to Know
