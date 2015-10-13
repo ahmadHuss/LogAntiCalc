@@ -1,5 +1,5 @@
 # Log And Antilog Calc
-It's just a project in my year GUI calculator that can Calculate logarithm and AntiLogarithm values
+It's just a project in my year GUI calculator that can Calculate logarithm and AntiLogarithm values.
 
 ![image1](/resc/sc1.png)
 
