@@ -8,8 +8,7 @@ It's just a project in my year GUI calculator that can Calculate logarithm and A
 ![image2](/resc/sc2.png)
 
 ##About
-In this project there is .jar file.And if you want to run that file you need to install Java RunTime Environement which
-is free.[Downloaded it Here](https://java.com/download){:target="_blank"}
+In this project there is .jar file.And if you want to run that file you need to install Java RunTime Environement which is free.<a href="https://java.com/download" target="_blank">Downloaded it Here</a>
 
 ##How-to use this
 First you need to Know
